@@ -1,0 +1,27 @@
+header {
+    background-color: blue;
+}
+footer{
+    background-color: rgba(0, 132, 255, 0.869); 
+}
+nav{
+    color: white;
+    text-align: center;
+}
+h6{
+    text-align: center;
+color: white
+;
+}
+#guy{
+    background-color: rgba(58, 45, 68, 0.7);
+    color: rgb(255, 255, 255);
+}
+#silver{
+    color: hsl(250, 50%, 50%);
+    background-color: hsl(300, 40%, 60%);
+}
+#lateness{
+    color: #aa3c99;
+background-color: #a5f4e2; 
+}
